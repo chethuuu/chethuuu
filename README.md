@@ -1,8 +1,7 @@
 
-<h5>
-  hey there
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
-</h5>
+
 
 ### I'm Chethana Prasadi 👋
 I am 3rd year Software Engineering Undergraduate at SLIIT. (Sri Lanka Institute of Information and Technology)
