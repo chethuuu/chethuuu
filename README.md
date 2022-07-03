@@ -9,14 +9,9 @@ I am 3rd year Software Engineering Undergraduate at SLIIT. (Sri Lanka Institute 
 </a>
 
 <br/> 
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chethuuu&title_color=tokyonight&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-
-<br/>
-
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chethanaprasadi2000)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/chethana-prasadi-46a6b822b/)
-[![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4)
+[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)] ()
 
 <br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
