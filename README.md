@@ -11,7 +11,6 @@ I am 3rd year Software Engineering Undergraduate at SLIIT. (Sri Lanka Institute 
 
 <br/> <br/>
 
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -31,16 +30,8 @@ I am 3rd year Software Engineering Undergraduate at SLIIT. (Sri Lanka Institute 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
-<br/> <br/>
-
-## 🛠  Technologies and tools
-
-<a name="learning-now"></a>
-
-
 ## 📖  What I am currently learning / improving on
-
+![Koa](https://img.shields.io/badge/-Koa-black?style=flat-square&logo=git)
 
 
 ## 👾  What I am interested in learning at some point
