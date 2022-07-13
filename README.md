@@ -2,20 +2,12 @@
 I am 3rd year Software Engineering Undergraduate at SLIIT. (Sri Lanka Institute of Information and Technology)
 
 <a href="https://github.com/chethuuu/chethuuu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chethuuu&&show_icons=true&title_color=tokyonight&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chethuuu&show_icons=true&line_height=27&count_private=true&title_color=tokyonight&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </a>
 <a href="https://github.com/chethuuu/chethuuu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethuuu&hide=java,html,tex&title_color=tokyonight&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </a>
 
-<br/> <br/>  
-
-<a href="https://github.com/chethuuu/chethuuu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethuuu&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/chethuuu/chethuuu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chethuuu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
 
 <br/> <br/>
 
