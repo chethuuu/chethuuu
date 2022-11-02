@@ -8,13 +8,13 @@ I am 3rd year Software Engineering Undergraduate at SLIIT. (Sri Lanka Institute 
 
 <br/> <br/>
 
-<details> 
-  <summary>💻 GitHub Monthly Activity Graph</summary>  
+
+  ## 💻 GitHub Monthly Activity Graph  
   <br/>  
   
-  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=chethuuu&theme=redical)](https://github.com/chethuuu/chethuuu)  
+  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=chethuuu&theme=redical)](https://github.com/chethuuu/chethuuu)    <br/>  
   
-</details> 
+
 
 ## ⚡ Technologies
 
