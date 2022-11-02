@@ -8,6 +8,14 @@ I am 3rd year Software Engineering Undergraduate at SLIIT. (Sri Lanka Institute 
 
 <br/> <br/>
 
+<details> 
+  <summary>💻 GitHub Monthly Activity Graph</summary>  
+  <br/>  
+  
+  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=chethuuu&theme=redical)](https://github.com/chethuuu/chethuuu)  
+  
+</details> 
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,10 +52,4 @@ I am 3rd year Software Engineering Undergraduate at SLIIT. (Sri Lanka Institute 
 </p>
 <br>
 
-<details> 
-  <summary>💻 GitHub Monthly Activity Graph</summary>  
-  <br/>  
-  
-  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=chethuuu&theme=redical)](https://github.com/chethuuu/chethuuu)  
-  
-</details> 
+
