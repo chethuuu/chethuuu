@@ -1,5 +1,5 @@
 ### Hi there...👋 I'm Chethana Prasadi 
-I am 3rd year Software Engineering Undergraduate at SLIIT. (Sri Lanka Institute of Information and Technology)
+I am 4th year Software Engineering Undergraduate at SLIIT. (Sri Lanka Institute of Information and Technology)
 
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chethuuu&show_icons=true&line_height=27&count_private=true&title_color=tokyonight&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <br/> 
