@@ -14,6 +14,7 @@ I am 4th year Software Engineering Undergraduate at SLIIT. (Sri Lanka Institute 
  
  </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chethuuu&label=Profile%20views&color=0e75b6&style=flat" alt="chethuuu" /> </p>
 
   ## 💻 GitHub Monthly Activity Graph  
   <br/>  
